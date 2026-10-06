@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 Мои_задания/Занятие_2_Python_03_сен_2026.ipynb
 Мои_задания/Сент_2026/Занятие_2_Python_03_сен_2026.ipynb
+.env
+*.lnk
