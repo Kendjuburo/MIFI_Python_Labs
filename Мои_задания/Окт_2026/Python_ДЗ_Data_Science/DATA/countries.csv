@@ -6,3 +6,9 @@ country;population;area
 Украина;45.5;603628
 Беларусь;9.5;207600
 Казахстан;17.04;2724902
+
+
+countries_data = pd.read_csv('data/countries.csv', sep=';')
+display(countries_data)
+
+
